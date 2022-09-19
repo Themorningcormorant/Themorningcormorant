@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Themorningcormorant
-- 👀 I’m interested in ... smart contracts, web3, blockchain, metaverse, NFT
+- 👀 I’m interested in ... smart contracts, web3, blockchain, metaverse, NFT, DAAPS , DIFI 
 - 🌱 I’m currently learning ... solidity
-- 💞️ I’m looking to collaborate on ... roadmap learning for beginners 
+- 💞️ I’m looking to collaborate on ... interesting projects,   
 - 📫 How to reach me ... twitter @mornincormorant
 
 <!---
