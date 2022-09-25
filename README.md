@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Themorningcormorant
-- 👀 I’m interested in ... smart contracts, web3, blockchain, metaverse, NFT, DAAPS , DIFI 
+- 👋 Hi, I’m Otis, im here to learn and always have time to listen to stories ! 
+- 👀 I’m interested in ... lots of stuff
 - 🌱 I’m currently learning ... solidity
-- 💞️ I’m looking to collaborate on ... interesting projects,   
+- 💞️ I’m looking to collaborate on ... interesting projects,   Problem solving, community growth
 - 📫 How to reach me ... twitter @mornincormorant
-
-<!---
-Themorningcormorant/Themorningcormorant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
