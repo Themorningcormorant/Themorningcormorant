@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning ... Javascript, Rust, GPT, Python  
 
-- 💞️ I’m looking to collaborate on ... dAaps, AI, Rockets, Fusion 
+- 💞️ I’m looking to collaborate on ...  dAaps, AI, Rockets, Fusion 
 
 - 📫 How to reach me ... twitter @TMcormorant
