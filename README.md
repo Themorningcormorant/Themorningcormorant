@@ -10,9 +10,12 @@
   👋 Hi, I Am Otis,
   Adeptus Astartes
   
-  I'm always seeking to expand my skillset, So. In the last 6 months,
+  Always seeking to expand my skillset, So. In the last 6 months,
+  
   I've become proficient in combining the technologies of JavaScript, Solidity, Next.js,             Tailwind and Debian systems.
+  
   With my trained AI model by my side and a strong interest in Web3, Blockchain, and Inf0S3c! 
+  
   I'm diving deeper into the security of Web3 and Blockchain, So Join me! On my journey as I         continue to develop my skills.
 
   
