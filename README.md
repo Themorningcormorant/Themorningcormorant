@@ -19,7 +19,7 @@
   
 </td><td valign="top" width="25%">
   
-## 🖥️ What i Know
+## 🖥️ So Far
   
   - Next.js
   - Tailwind
