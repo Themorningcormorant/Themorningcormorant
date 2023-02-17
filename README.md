@@ -9,17 +9,17 @@
   
   👋 Hi, I Am Otis
   
-  I am a Reasearcher interested in Web3 and Inf0SeC
-  For the last 6 months I've been learning Web3.
-  I found a real passion for Security and Threat modeling. 
-  Now I've found what I like. I'm going all in.
+  I'm always seeking to expand my skillset, So. In the last 6 months,
+  I've become proficient in combining the technologies of JavaScript, Solidity, Next.js and           Tailwind and Debian systems.
+  With my trained AI model by my side and a strong interest in Web3, Blockchain, and Inf0S3c! 
+  I'm diving deeper into the security of Web3 and Blockchain, So Join me! On my journey as I         continue to develop my skills.
 
   
-  - I have founded [TM-Cormorant](https://discord.gg/4Mh6ywFECC) focused around research and           development within Web3.  
+  - If you want to talk [TM-Cormorant](https://discord.gg/4Mh6ywFECC) focused around research and       development within Web3.  
   
 </td><td valign="top" width="25%">
   
-## 🖥️ Fav Tech Stack
+## 🖥️ What i Know
   
   - Next.js
   - Tailwind
