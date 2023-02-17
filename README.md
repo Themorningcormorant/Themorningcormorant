@@ -19,9 +19,8 @@
   As an Adeptus Astartes, I'm diving deeper into the security of Web3 and Blockchain, So Join me!     On my journey as I continue to develop my skills.
 
   
-  - If you want to talk [TM-Cormorant](https://discord.gg/4Mh6ywFECC) focused around research and       development within Web3.  
-  
-</td><td valign="top" width="25%">
+   
+ </td><td valign="top" width="25%">
   
 ## 🖥️ So Far
   
