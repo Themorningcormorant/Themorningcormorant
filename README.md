@@ -9,12 +9,13 @@
   
   👋 Hi, I Am Otis
   
-  I am a Reasearcher interested in Web3 and Inf0SeC.
-  For the last 6 months ive been learning web3
-  I found a real pasion for Security and Threat modeling 
-  Now ive found what i like im going all in.
+  I am a Reasearcher interested in Web3 and Inf0SeC
+  For the last 6 months I've been learning Web3.
+  I found a real passion for Security and Threat modeling. 
+  Now I've found what I like. I'm going all in.
+
   
-  - I have founded [TM-Cormorant](https://discord.gg/4Mh6ywFECC) a Discord focused around research and development within Web3.
+  - I have founded [TM-Cormorant](https://discord.gg/4Mh6ywFECC) focused around research and           development within Web3.  
   
 </td><td valign="top" width="25%">
   
