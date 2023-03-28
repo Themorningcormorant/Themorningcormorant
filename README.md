@@ -16,7 +16,9 @@
   
   With my trained AI model by my side and a strong interest in Web3 and Inf0S3c! 
   
-  As an Adeptus Astartes, I'm diving deeper into the security of Web3 and Blockchain, So Join me!     On my journey as I continue to develop my skills.
+  Join my journey as I continue to develop my skills.
+  
+  https://otisjames.vercel.app/
 
   
    
