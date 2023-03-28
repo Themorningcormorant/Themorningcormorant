@@ -24,10 +24,14 @@
   
 ## 🖥️ So Far
   
-  - Next.js
-  - Tailwind
   - VirtualBox
   - Debian
-  - Javascript
   - Solidity
+  - Javascript
+  - Next.js
+  - Tailwind
+  
+  
+  
+  
   
