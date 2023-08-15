@@ -20,13 +20,7 @@
   
 ## 🖥️ So Far
   
-  - VirtualBox
-  - Debian
-  - Info-Sec
-  - Solidity
-  - Javascript
-  - Next.js
-  - Tailwind
+  
   
   
   
