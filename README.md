@@ -10,15 +10,9 @@
   👋 Hi, I'm Otis,
   
   
-  Always seeking to expand my skillset, So. In the last 6 months,
+  Always seeking to expand my skillset, 
   
-  I've become proficient in combining the technologies of JavaScript, Solidity, Next.js,             Tailwind and Debian systems.
   
-  With my trained AI model by my side and a strong interest in Web3 and Inf0S3c! 
-  
-  Join my journey as I continue to develop my skills.
-  
-  https://otisjames.vercel.app/
 
   
    
